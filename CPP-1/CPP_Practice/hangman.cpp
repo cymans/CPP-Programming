@@ -83,7 +83,7 @@ void playGame(string word) {
 		if (string(displayWord.begin(), displayWord.end()) == word) {
 			walkman();
 			cout << "The word is: " << displayWord << endl;
-			cout << "So you can fuck of now Cunt!\n";
+			cout << "Thank you for playing!\n";
 			break;
 		}
 	}
